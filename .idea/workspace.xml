@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c65b242-7f95-49df-a3fe-355ad9954292" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hotfix/test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="22GcIl77CbL6KZWSdbzDw0j3GQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c65b242-7f95-49df-a3fe-355ad9954292" name="Default Changelist" comment="" />
+      <created>1639467286965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639467286965</updated>
+      <workItem from="1639467289851" duration="1331000" />
+      <workItem from="1639468657270" duration="2127000" />
+      <workItem from="1639470806267" duration="770000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix:merge conflict">
+      <created>1639468162975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639468162975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat:bbb">
+      <created>1639469172161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639469172161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat:ccc">
+      <created>1639469240138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639469240138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat:ccc">
+      <created>1639471117451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639471117451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <MESSAGE value="fix:merge conflict" />
+    <MESSAGE value="feat:bbb" />
+    <MESSAGE value="feat:ccc" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:ccc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="0" width="1209" height="1040" key="CommitChangelistDialog2" timestamp="1639471110207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="482" y="0" width="1209" height="1040" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1639471110207" />
+    <state x="57" y="127" width="1736" height="856" key="DiffContextDialog" timestamp="1639471219538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="57" y="127" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639471219538" />
+    <state x="219" y="150" key="MergeDialog" timestamp="1639469542985">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="219" y="150" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639469542985" />
+    <state x="660" y="285" width="791" height="370" key="MultipleFileMergeDialog" timestamp="1639469542997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="285" width="791" height="370" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639469542997" />
+    <state x="452" y="173" key="Vcs.Push.Dialog.v2" timestamp="1639471127133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="173" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1639471127133" />
+    <state x="683" y="165" key="git4idea.branch.GitSmartOperationDialog" timestamp="1639470840730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="165" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639470840730" />
+    <state x="682" y="264" key="git4idea.merge.GitMergeDialog" timestamp="1639471441964">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="264" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639471441964" />
+  </component>
+</project>
